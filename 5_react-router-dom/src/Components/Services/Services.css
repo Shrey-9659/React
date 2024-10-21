@@ -1,0 +1,16 @@
+.services {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.services h1 {
+    text-align: center;
+}
+
+.service-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 15px 0;
+}

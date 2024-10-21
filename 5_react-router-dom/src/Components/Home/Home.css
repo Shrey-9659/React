@@ -1,0 +1,31 @@
+main {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.hero {
+    background-color: #1e1b1b;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.services {
+    margin: 20px 0;
+}
+
+.services h2, .contact h2 {
+    text-align: center;
+}
+
+.service-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.contact {
+    text-align: center;
+}

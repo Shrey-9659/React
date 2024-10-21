@@ -1,0 +1,42 @@
+footer {
+    background-color: #1e1b1b;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+.footer-links, .social-media {
+    width: 40%;
+}
+
+.footer-links h4, .social-media h4 {
+    margin-bottom: 10px;
+}
+
+.footer-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-links ul li {
+    margin: 5px 0;
+}
+
+.footer-links a, .social-media a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-links a:hover, .social-media a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    font-size: 14px;
+}
