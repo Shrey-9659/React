@@ -1,0 +1,11 @@
+.card{
+    border: 2px solid black;
+    width: 300px;
+    background-color: beige;
+    color: black;
+    border-radius: 10px;
+}
+
+.text-size{
+    font-size: 20px
+}
